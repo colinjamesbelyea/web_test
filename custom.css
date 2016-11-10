@@ -1,0 +1,24 @@
+/* This is the class used for the content sub-headers (<h3>) */
+.content-subhead {
+    color: #1f8dd6;
+}
+
+.content-head-ribbon {
+  color: white !important;
+}
+
+#getstartedquickly {
+    color: red !important;
+}
+
+#responsivelayouts {
+    color: green !important;
+}
+
+#modular {
+    color: blue !important;
+}
+
+#plays {
+    color: #1f8dd6 !important;
+}
